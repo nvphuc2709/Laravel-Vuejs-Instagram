@@ -13,7 +13,7 @@
             <div class="row">
                 <label for="caption" class="col-md-4 col-form-label font-weight-bold">{{ __('Caption') }}</label>
 
-                <input id="caption" type="caption" class="form-control @error('caption') is-invalid @enderror" name="caption" value="{{ old('caption') }}" autocomplete="caption" autofocus>
+                <input id="caption" type="text" class="form-control @error('caption') is-invalid @enderror" name="caption" value="{{ old('caption') }}" autocomplete="caption" autofocus>
 
                 @error('caption')
                 <span class="invalid-feedback" role="alert">
