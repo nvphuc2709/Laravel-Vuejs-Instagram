@@ -5,6 +5,6 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Run cmd 
-1)git clone https://github.com/nvphuc2709/Laravel-Vuejs-Instagram
-2)php artisan migrate:fresh
-3)php artisan serve
+<b>1)</b> git clone https://github.com/nvphuc2709/Laravel-Vuejs-Instagram <br>
+<b>2)</b> php artisan migrate:fresh<br>
+<b>3)</b> php artisan serve<br>
